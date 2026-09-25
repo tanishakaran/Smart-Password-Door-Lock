@@ -56,9 +56,9 @@ The system asks the user to enter a password using the keypad.
 
 ![Smart Password Door Lock](circuit.png)
 
-## 🛠️ Simulation
+## 🔗 Live Tinkercad Simulation
 
-The project was designed and tested using **Tinkercad Circuits**.
+[Open the Smart Password Door Lock in Tinkercad](https://www.tinkercad.com/things/2QCJti9Kpm3-iot-project-38-smart-password-door-lock)
 
 ## 💻 Technologies
 
